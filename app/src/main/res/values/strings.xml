@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Data Karyawan</string>
+    <string name="Selected_Item">SelectedItem</string>
+    <string-array name="Jabatan">
+        <item>CEO</item>
+        <item>Manajer Cabang</item>
+        <item>Keuangan</item>
+        <item>Sekretaris</item>
+        <item>Karyawan</item>
+    </string-array>
+</resources>

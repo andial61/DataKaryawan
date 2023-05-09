@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402419983013",
+    "project_id": "daftarkaryawan-17a23",
+    "storage_bucket": "daftarkaryawan-17a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402419983013:android:53c8568b41be6cc0bd234c",
+        "android_client_info": {
+          "package_name": "com.example.datakaryawan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402419983013-9pmqfunoal2dha7g7q0tue0tkf0lu8gr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datakaryawan",
+            "certificate_hash": "b320506e3a97c53816c71239040ab621c401da85"
+          }
+        },
+        {
+          "client_id": "402419983013-ki3thv33boa5537sjekar9nbqf6t0ti4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_PvHa_DHY9xvbQW4tQ9IpXKgMCrVvMNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402419983013-3p1s15i3t67h1d01fr282bvm0lre05j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
